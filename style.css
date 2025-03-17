@@ -1,0 +1,25 @@
+.principal{
+    text-align: center;
+    margin: 20px;
+    border: 20px solid;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+.principal h1{
+    color: brown;
+}
+#inicio{
+    background-color: orange;
+}
+#inicio2{
+    background-color: darkblue;
+    color: white;
+}
+#inicio3{
+    background-color: green;
+    color: white;
+}
+.ramen{
+    margin: 0;
+    padding: 0;
+}
